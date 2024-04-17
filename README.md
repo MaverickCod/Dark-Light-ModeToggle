@@ -17,7 +17,7 @@ It's a creative approach to enhancing user experience and showcasing design elem
 
 ## Hosted Link
 
-The project is hosted on [GitHub Pages](https://maverickcod.github.io/Dark-Light-ModeToggle/). You can access it [here](https://github.com/MaverickCod/Dark-Light-ModeToggle).
+The project is hosted on [GitHub Pages](https://github.com/MaverickCod/Dark-Light-ModeToggle). You can access it [here](https://maverickcod.github.io/Dark-Light-ModeToggle/).
 
 ## Project Structure
 
